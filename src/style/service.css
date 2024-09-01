@@ -1,0 +1,15 @@
+.service {
+    background-color: #daf1e9;
+    border-radius: 0rem;
+    padding: 30px 15px;
+    margin: 10px 0px 10px 0px;
+}
+
+.service-title {
+    margin-top: 15px;
+}
+
+.service-title a{
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,126 @@
+.about3-section-area {
+    position: relative;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.about-3-images {
+    position: relative;
+}
+
+.about-3-images img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    object-fit: cover;
+}
+
+.about3-textarea {
+    padding: 0 0 0 40px;
+}
+
+span.finance1 {
+    border-radius: 120px;
+    background: rgb(16 136 111 / 8%);
+    padding: 10px 16px;
+    display: inline-block;
+}
+
+span.success1 {
+    position: relative;
+}
+
+.color-25 {
+    color: #F1BE14;
+    text-shadow: none;
+}
+
+span.success1::after {
+    position: absolute;
+    content: "";
+    background: #F1BE14;
+    width: 100%;
+    height: 2px;
+    /* top: 0; */
+    left: 0;
+    bottom: 0;
+    border-radius: 10px;
+}
+
+span.check3-icon {
+    background: rgba(4, 78, 124, 0.20);
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    color: #044E7C;
+    font-size: 9px;
+    font-weight: 700;
+}
+
+
+.about-3-afterbefore {
+    border-radius: 5px;
+    background: #F9F8F6;
+    position: relative;
+    padding: 15px 20px;
+    margin-top: 32px;
+    z-index: 1;
+}
+
+.about-3-afterbefore p {
+    transition: all .4s ease-in-out;
+}
+
+
+.about-3-afterbefore::after {
+    position: absolute;
+    content: "";
+    border-radius: 5px;
+    background: rgb(16, 136, 111);
+    height: 100%;
+    width: 6px;
+    top: 0;
+    left: 0;
+    transition: all .4s ease-in-out;
+    z-index: -1;
+}
+
+.about-3-afterbefore:hover p {
+    color: #fff;
+    transition: all .4s ease-in-out;
+}
+
+.about-3-afterbefore:hover::after {
+    width: 100%;
+    transition: all .4s ease-in-out;
+    z-index: -1;
+}
+
+a.unlock-btn {
+    border-radius: 10px;
+    background: rgb(16, 136, 111);
+    padding: 10px 16px;
+    display: inline-block;
+    margin-top: 32px;
+    position: relative;
+    z-index: 1;
+    transition: all 0.3s ease-in-out; /* Smooth transition */
+    color: #F1BE14;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid rgb(16, 136, 111);
+}
+
+/* Simple Hover Effect */
+a.unlock-btn:hover {
+    background: rgb(16, 136, 111); /* Change background color on hover */
+    color: #F1BE14; /* Change text color on hover */
+    border: 1px solid rgb(16, 136, 111); /* Change border color on hover */
+    transform: scale(1.05); /* Slightly increase the size on hover */
+}
+

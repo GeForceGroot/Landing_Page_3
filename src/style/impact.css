@@ -1,0 +1,23 @@
+.counter-default {
+    padding: 53px 20px 53px 36px;
+    background-color: #E5EEE7;
+    margin: 10px 0px 10px 0px;
+}
+
+#col1 {
+    background-color: #10886F !important;
+}
+
+#col2 {
+    background-color: #489F8C !important;
+}
+
+#col3 {
+    background-color: #cceedf !important;
+    color: #10886F;
+}
+
+#col4 {
+    background-color: #E5EEDF !important;
+    color: #489F8C;
+}
