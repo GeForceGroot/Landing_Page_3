@@ -17,10 +17,10 @@ const Faq = () => {
                                     <input type="checkbox" id="accordion1" />
                                     <label htmlFor="accordion1" className="accordion-item-title">
                                         <span className="icon"></span>
-                                        What consulting services do you offer?
+                                        What is bookkeeping, and why is it important?
                                     </label>
                                     <div className="accordion-item-desc">
-                                        We offer a wide range of consulting services including strategic planning, digital transformation, business process optimization, market analysis, and more. Our goal is to provide tailored solutions that address your organization's unique challenges and goals.
+                                        It is the process of recording financial transactions systematically. Bookkeeping ensures accurate financial records, aids in decision-making, and is essential for tax purposes.
                                     </div>
                                 </div>
 
@@ -28,10 +28,10 @@ const Faq = () => {
                                     <input type="checkbox" id="accordion2" />
                                     <label htmlFor="accordion2" className="accordion-item-title">
                                         <span className="icon"></span>
-                                        How can consulting services benefit my business?
+                                        How can payroll services benefit my business?
                                     </label>
                                     <div className="accordion-item-desc">
-                                        Consulting services can bring valuable expertise, fresh perspectives, and strategic insights to your business. They help in identifying growth opportunities, improving operational efficiency, minimizing risks, and staying competitive in a rapidly changing market landscape.
+                                    Its services automate salary processing, tax deductions, and compliance with labor laws, saving time and reducing errors while providing employees with timely pay.
                                     </div>
                                 </div>
 
@@ -39,10 +39,10 @@ const Faq = () => {
                                     <input type="checkbox" id="accordion3" />
                                     <label htmlFor="accordion3" className="accordion-item-title">
                                         <span className="icon"></span>
-                                        How do you ensure confidentiality and data security?
+                                        What are accounts payable (AP) and accounts receivable (AR)?
                                     </label>
                                     <div className="accordion-item-desc">
-                                        Confidentiality and data security are paramount to us. We adhere to strict confidentiality agreements and implement robust data protection measures to safeguard your sensitive information. Our consultants operate with the highest ethical standards and integrity.
+                                    Accounts Payable (AP) refers to money owed by a business to suppliers, while Accounts Receivable (AR) is the money owed to the business by customers. Both are crucial for cash flow management.
                                     </div>
                                 </div>
 
@@ -50,10 +50,10 @@ const Faq = () => {
                                     <input type="checkbox" id="accordion4" />
                                     <label htmlFor="accordion4" className="accordion-item-title">
                                         <span className="icon"></span>
-                                        What industries do you specialize in?
+                                        What is GST/HST, and how do I manage it?
                                     </label>
                                     <div className="accordion-item-desc">
-                                        We have experience working across various industries including technology, healthcare, finance, retail, manufacturing, and more. Our consultants bring industry-specific knowledge and best practices to deliver impactful solutions tailored to your sector.
+                                    GST (Goods and Services Tax) and HST (Harmonized Sales Tax) are value-added taxes in Canada. Proper bookkeeping ensures accurate collection and remittance to avoid penalties.
                                     </div>
                                 </div>
 
@@ -61,10 +61,10 @@ const Faq = () => {
                                     <input type="checkbox" id="accordion5" />
                                     <label htmlFor="accordion5" className="accordion-item-title">
                                         <span className="icon"></span>
-                                        How do I get started with your consulting services?
+                                        Why are tax services essential for my business?
                                     </label>
                                     <div className="accordion-item-desc">
-                                        Getting started is easy! Simply contact us through our website or give us a call to schedule an initial consultation. We'll discuss your specific needs, objectives, and expectations. From there, we'll propose a customized consulting approach to help you achieve your business goals.
+                                    Tax services help minimize tax liabilities through strategic planning and ensure compliance with regulations, reducing the risk of audits and penalties.
                                     </div>
                                 </div>
                             </div>

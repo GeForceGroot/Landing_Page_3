@@ -48,12 +48,18 @@ function MainContent() {
         <Carousel />
       </section>
       <Plan />
-      <ServicesSection />
+      <section id='services'>
+        <ServicesSection />
+      </section>
       <BenefitsSection />
-      <TeamMember />
+      <section id='about-us'>
+        <TeamMember />
+      </section>
       <StatsSection />
       <Faq />
-      <Contact />
+      <section id='contactUs'>
+        <Contact />
+      </section>
       <Footer />
     </div>
   );

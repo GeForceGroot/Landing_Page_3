@@ -18,7 +18,7 @@ code {
   justify-content: center;
   align-items: center;
   height: 100vh; /* Full screen height */
-  background: linear-gradient(145deg, rgba(20, 184, 166, 0.8), #0E9EAB, #0486A1, rgba(1, 92, 145, 1));
+  background: linear-gradient(145deg, rgba(16, 136, 111, 0.8), #f1be14, #c9a514, rgba(193, 150, 20, 1));
   overflow: hidden;
 }
 
