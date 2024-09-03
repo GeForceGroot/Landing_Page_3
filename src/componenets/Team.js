@@ -50,7 +50,7 @@ const TeamMember = () => {
                                 <Link to="contactUs" smooth={true} duration={600}>
                                     <button
                                         btnAbout
-                                        id="btnSubmit"
+                                        id="btnContact"
                                     >
                                         <span>Get In Touch</span>
                                         <i className="fa-solid fa-arrow-right"></i>
