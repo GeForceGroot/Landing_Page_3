@@ -41,10 +41,10 @@ const StatsSection = () => {
                 <article className="counter-default text-white" id='col1'>
                   <div className="counter-default-main">
                     <h1 className="counter">
-                      <CountUp start={0} end={inView ? 35 : 0} duration={2} suffix="+" />
+                      <CountUp start={0} end={inView ? 1429 : 0} duration={2} suffix="+" />
                     </h1>
                   </div>
-                  <div className="counter-default-title">Skilled professionals</div>
+                  <div className="counter-default-title">HST Remitted</div>
                 </article>
               </div>
               <div className="col-6">
@@ -52,10 +52,10 @@ const StatsSection = () => {
                 <article className="counter-default bg-primary-light text-white" id='col2'>
                   <div className="counter-default-main">
                     <h1 className="counter">
-                      <CountUp start={0} end={inView ? 1596 : 0} duration={2} separator="," />
+                      <CountUp start={0} end={inView ? 14 : 0} duration={2} separator="," />
                     </h1>
                   </div>
-                  <div className="counter-default-title">Happy clients</div>
+                  <div className="counter-default-title">Years of experience</div>
                 </article>
               </div>
               <div className="col-6">
@@ -63,10 +63,10 @@ const StatsSection = () => {
                 <article className="counter-default" id='col3'>
                   <div className="counter-default-main">
                     <h1 className="counter">
-                      <CountUp start={0} end={inView ? 17 : 0} duration={2} suffix="+" />
+                      <CountUp start={0} end={inView ? 710 : 0} duration={2} suffix="+" />
                     </h1>
                   </div>
-                  <div className="counter-default-title">Years of experience</div>
+                  <div className="counter-default-title">Clients on are Recrurring Basis</div>
                 </article>
               </div>
               <div className="col-6">
@@ -74,10 +74,10 @@ const StatsSection = () => {
                 <article className="counter-default" id='col4'>
                   <div className="counter-default-main">
                     <h1 className="counter">
-                      <CountUp start={0} end={inView ? 17 : 0} duration={2} suffix="+" />
+                      <CountUp start={0} end={inView ? 28 : 0} duration={2} suffix="+" />
                     </h1>
                   </div>
-                  <div className="counter-default-title">Years of experience</div>
+                  <div className="counter-default-title">Full-Time Employees</div>
                 </article>
               </div>
             </div>

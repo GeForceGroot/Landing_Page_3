@@ -39,7 +39,7 @@ const Footer = () => {
                                 <div className="footer-contact-info" style={{ marginTop: "50px" }}>
                                     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" className="footer-icon" />
                                     <a href="mailto:info@cleveraccounting.com" className="footer-contact-link">
-                                        Info@cadbookkeping.com
+                                        Info@stripebookkeping.com
                                     </a>
                                 </div>
                                 <div className="footer-contact-info">
@@ -54,7 +54,7 @@ const Footer = () => {
                         </div>
                         <div className="footer-divider"></div>
                         <div className="footer-copyright text-center">
-                            <p>&copy; 2024 <a href="https://intqbooks.com/">Stripe Bookkeping | Design & Develop with 🤍 by Shreyansh Tiwari</a></p>
+                            <p>&copy; 2024 <a href="#">Stripe Bookkeping | Design & Develop with 🤍 by Shreyansh Tiwari</a></p>
                         </div>
                     </div>
                 </div>
