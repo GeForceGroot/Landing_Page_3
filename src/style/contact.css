@@ -232,6 +232,7 @@ button[type="submit"] {
 
 .nav-item a.nav-link:hover {
   color: #196C68 !important;
+  cursor: pointer;
 }
 
 #btnSubmit {

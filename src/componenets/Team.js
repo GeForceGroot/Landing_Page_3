@@ -30,7 +30,7 @@ const TeamMember = () => {
                                     className="font-16 font-outfit weight-500 lineh-16 color36 d-inline-block consultingspan margin-b20"
                                     btnAbout
                                 >
-                                    Team Members
+                                    About Our Team
                                 </span>
                                 <h1
                                     btnAbout
@@ -45,7 +45,7 @@ const TeamMember = () => {
                                     className="font-16 lineh-26 weight-500 color-30 font-ks"
                                     style={{ marginTop: '20px', fontFamily: 'inherit' }}
                                 >
-                                    Mr Kaushik Thakkar is the backbone of Cad Bookkeeping. His vision to serve businesses to contribute to global development leads to the creation of Cad Bookkeeping. He has served lots of organisations and corporations throughout his successful career of 11+ years. He is been considered an expert in bookkeeping, accounting, payroll management, internal audits, and filing taxes at the international level. He has allied with CPAs and CAs in various nations to create a strong network of professionals to support you in peak seasons and for your international operations.
+                                    StripeBookkeeping has a solid, motivated, committed team that is eager to grow. Thanks to master mind behind all this success, Kaushik Thakkar, the man who led the foundation of this beautiful journey. Our talent attraction and retention programme and our training plan, together with our experience, our dedication to service and the trust placed in us by our clients over all these years establish us as one of the most prestigious companies in the sector.
                                 </p>
                                 <Link to="contactUs" smooth={true} duration={600}>
                                     <button

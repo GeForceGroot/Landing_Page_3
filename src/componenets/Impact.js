@@ -27,11 +27,11 @@ const StatsSection = () => {
             <h1 style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>
               Lintense provides solutions that support businesses
             </h1>
-            <h5 style={{ marginTop: '25px' }}>
-              Take a look at the recent facts and numbers to find out more about Lintense and how we help companies.
+            <h5 style={{ marginTop: '15px' }}>
+              StripeBookkeeping takes care of all the acts related to the financial part, control, the incorporation of companies and the different records of expenses and income of your business.
             </h5>
-            <p className="font-16 lineh-26 weight-500 color-30 font-ks" style={{ marginTop: '20px', fontFamily: 'inherit' }}>
-              lordjashdasjd dhsaiodkasnd admhsaiodnas dmashifosa f sbisna fdmkajfoijsdf smdfjiosjfnm fmnksjdogfndsmnf klsjflks dfmkjsfojsnnm dsfkj
+            <p className="font-16 lineh-26 weight-500 color-30 font-ks" style={{ marginTop: '10px', fontFamily: 'inherit' }}>
+              StripeBookkeeping puts people at the center of its activity. Our daily work is geared towards the professional and personal growth of our collaborators. Every day we seek technical excellence and the satisfaction of our clients by creating an environment of effort, rigor, camaraderie and a good working atmosphere. We want to enjoy what we do every day and for that to be the best guarantee of excellence for our clients.
             </p>
           </div>
           <div className="col-md-10 col-lg-6" style={{ marginTop: '50px', textAlign: 'start' }}>
