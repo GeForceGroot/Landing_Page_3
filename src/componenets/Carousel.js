@@ -33,11 +33,11 @@ const Carousel = () => {
         <section className={`Nav ${scrolled ? 'scrolled' : ''}`} id="NavId">
           <div className="container" style={{ marginTop: "25px" }}>
             <div className="row align-items-center">
-              <a href="/">
               <div className="col-md-2">
+                <a href="/">
                 <img id="imgLogo" src={logo} alt="logo" className="img-fluid" />
+                </a>
               </div>
-              </a>
               <div className="col-md-8">
                 <ul className="nav justify-content-center">
                   <li className="nav-item" >
