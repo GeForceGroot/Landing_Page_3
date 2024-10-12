@@ -22,13 +22,13 @@ const ServicesSection = () => {
                                 <div className="service-icon">
                                     <img src={img5} alt="" width={'45px'} height={'45px'} />
                                 </div>
-                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Outsourcing Service</h3>
+                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Outsourcing</h3>
                                 <ul className='service-text'>
-                                    <li>Seek only the required services</li>
-                                    <li>Get Professional assistance for general accounting and bookkeeping</li>
-                                    <li>Combine your accounts payable and accounts</li>
-                                    <li>Receivable accounts</li>
-                                    <li>Outsource complete solution from order to cash.</li>
+                                    <li>Bookkeeping and Year-end finalization</li>
+                                    <li>Payroll preparation and filing</li>
+                                    <li>Sales tax (GST/PST/HST) preparation and filing</li>
+                                    <li>Accounts Receivable/Payable Management</li>
+                                    <li>Tax return preparation, review and filing</li>
                                 </ul>
                             </div>
                         </div>
@@ -40,10 +40,11 @@ const ServicesSection = () => {
                                 <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Bookkeeping
                                 </h3>
                                 <ul className='service-text'>
-                                    <li>StripeBookkeeping keeps track of all your financial transactions, including expenses and sales.</li>
-                                    <li>Customers receive regular financial statements that help you understand your business’s financial health.</li>
-                                    <li>We categorize your expenses, making it easier to keep an eye on your spending.</li>
-                                    <li>Organized records make tax time a breeze, ensuring you’re prepared for filing.</li>
+                                    <li>Entry of Bills, Invoices and Payroll reports</li>
+                                    <li>Record Bank and Credit Card tranactions</li>
+                                    <li>Bank and credit card reconciliations</li>
+                                    <li>Promptly address client Queries</li>
+                                    <li>Promptly address client QuerBookkeeping Review and Management reports</li>
                                 </ul>
                             </div>
                         </div>
@@ -52,12 +53,13 @@ const ServicesSection = () => {
                                 <div className="service-icon">
                                     <img src={img8} alt="" width={'45px'} height={'45px'} />
                                 </div>
-                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Risk Assessment Audits</h3>
+                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Sales tax/GST/HST</h3>
                                 <ul className='service-text'>
-                                    <li>We help you find potential financial risks in your business.</li>
-                                    <li>Together, we create strategies to minimize those risks and protect your assets.</li>
-                                    <li>Ensures that your business meets all legal requirements to avoid penalties.</li>
-                                    <li>Ongoing assessments keep your risk management updated and effective.</li>
+                                    <li>Record every transactions</li>
+                                    <li>Cross-check transactions</li>
+                                    <li>Verify credits and exemptions</li>
+                                    <li>Ensure accurate, timely filing</li>
+                                    <li>Stay compliant with regulations</li>
                                 </ul>
                             </div>
                         </div>
@@ -66,12 +68,13 @@ const ServicesSection = () => {
                                 <div className="service-icon">
                                     <img src={img3} alt="" width={'45px'} height={'45px'} />
                                 </div>
-                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Comprehensive Budgeting Services</h3>
+                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Payroll - US & Canada</h3>
                                 <ul className='service-text'>
-                                    <li>We create personalized budgets based on your specific business goals.</li>
-                                    <li>Predict your future expenses to manage your finances better.</li>
-                                    <li>We monitor your budget performance and suggest adjustments as needed.</li>
-                                    <li>Helps you align your spending with your long-term financial objectives.</li>
+                                    <li>Time and Attendance verifying</li>
+                                    <li>Paystub of hourly & salaried based staff</li>
+                                    <li>Direct deposit and Tax withholding filing</li>
+                                    <li>941, 940, Withholding Tax and Unemployement</li>
+                                    <li>Payroll Reconiliation at year-end</li>
                                 </ul>
                             </div>
                         </div>
@@ -80,12 +83,13 @@ const ServicesSection = () => {
                                 <div className="service-icon">
                                     <img src={img4} alt="" width={'45px'} height={'45px'} />
                                 </div>
-                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>On-Demand CFO Services</h3>
+                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Accounts Payable/Receivable</h3>
                                 <ul className='service-text'>
-                                    <li>Access strategic advice from a seasoned CFO when you need it.</li>
-                                    <li>Pay for CFO services only when necessary, without a full-time commitment.</li>
-                                    <li>Assistance in creating financial forecasts and growth plans.</li>
-                                    <li>Gain insights into your business performance from a financial perspective.</li>
+                                    <li>Record Vendor bill and Customer Invoice</li>
+                                    <li>Payment processing for Bill and Invoice</li>
+                                    <li>Analyst AP Aging and AR Aging</li>
+                                    <li>Vendor reconiliations and reports</li>
+                                    <li>Automation and Technology Integration</li>
                                 </ul>
                             </div>
                         </div>
@@ -94,12 +98,13 @@ const ServicesSection = () => {
                                 <div className="service-icon">
                                     <img src={img6} alt="" width={'45px'} height={'45px'} />
                                 </div>
-                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>GST/HST</h3>
+                                <h3 className="service-title" style={{ color: '#10886F', textShadow: 'rgba(0, 0, 0, 0.3) 4px 4px 5px' }}>Audit</h3>
                                 <ul className='service-text'>
-                                    <li>We help calculate Goods and Services Tax (GST) and Harmonized Sales Tax (HST) correctly.</li>
-                                    <li>We guide you through the process of filing your GST/HST returns.</li>
-                                    <li>Ensure you maximize any tax credits available to you.</li>
-                                    <li>Stay informed on any changes in tax rates or rules that could affect your business.</li>
+                                    <li>Federal/State Tax Audit</li>
+                                    <li>Payroll Audit</li>
+                                    <li>Sales Tax/GST/HST Audit</li>
+                                    <li>Unemployment Tax Audit</li>
+                                    <li>Complied Federal/State tax Law</li>
                                 </ul>
                             </div>
                         </div>

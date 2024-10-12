@@ -36,16 +36,20 @@ const Footer = () => {
                         <div className="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-left" data-aos-duration="1200" id='setFooter' >
                             <div className="footer-contact">
                                 <h2 className="footer-title">Contact Us</h2>
+                                <a href="mailto:info@cleveraccounting.com">
                                 <div className="footer-contact-info" style={{ marginTop: "50px" }}>
                                     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Email" className="footer-icon" />
                                     <a href="mailto:info@cleveraccounting.com" className="footer-contact-link">
                                         Info@stripebookkeping.com
                                     </a>
                                 </div>
+                                </a>
+                                <a href='https://maps.app.goo.gl/pwddKZfh7rtbkmcUA'>
                                 <div className="footer-contact-info">
                                     <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Home-icon.png" alt="Location" className="footer-icon" />
                                     <a href="#" className="footer-contact-link">2482 Yonge Street Toronto, ON M4P 2H5 Canada</a>
                                 </div>
+                                </a>
                                 <div className="footer-contact-info">
                                     <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Phone-icon.png" alt="Phone" className="footer-icon" />
                                     <a href="tel:+13155576525" className="footer-contact-link">+1 (315)-557-6525</a>
@@ -54,7 +58,7 @@ const Footer = () => {
                         </div>
                         <div className="footer-divider"></div>
                         <div className="footer-copyright text-center">
-                            <p>&copy; 2024 <a href="#">Stripe Bookkeping | Design & Develop with 🤍 by Shreyansh Tiwari</a></p>
+                            <p>&copy; 2024 <a href="#">Stripe Bookkeping</a></p>
                         </div>
                     </div>
                 </div>
